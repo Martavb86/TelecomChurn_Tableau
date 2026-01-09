@@ -45,7 +45,7 @@ The dataset `telecom_churn` includes:
 ---
 
 ## How to View
-1. Open Tableau Public → [Your Profile Link](https://public.tableau.com/profile/yourusername)  
+1. Open Tableau Public → [Your Profile Link](https://public.tableau.com/profile/Marta.valero.bell.)  
 2. Click on **TelecomChurn** to interact with the dashboard  
 3. Apply filters to explore KPIs and charts  
 
